@@ -1,1 +1,1 @@
-My first coding on git
+Coding is super fun!
